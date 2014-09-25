@@ -65,6 +65,8 @@ Cool libraries
 * `requests-toolbelt`_
 * (`more`_-)
   `itertools`_
+* PySerial
+* TastyPie
 
 .. _Bottle: http://bottlepy.org/docs/dev/index.html
 .. _Pykka: https://github.com/jodal/pykka
