@@ -1,8 +1,7 @@
-=================================
 Cool stuff I saw at PyCon UK 2014
 =================================
-:Author: Miles Gould <miles.gould@hogarthww.com>
-:Date: 2014-09-26
+* Miles Gould <miles.gould@hogarthww.com>
+* 26th September 2014
 
 Major themes
 ============
