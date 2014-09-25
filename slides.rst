@@ -80,13 +80,21 @@ Last but not least
 * Used to make these slides!
 * Installation currently slightly fiddly
 
-Top 5 talks
-===========
-#
-#
-#
-#
-#
+Best Things I Saw
+=================
+* Lessons from Strangers (Rachel Sanders)
+* The Twelve-Factor App (Kristian Glass)
+* Miss Adventures in Raspberry Pi (Carrie Anne Philbin)
+* A Deep Dive into Requests (Cory Benfield)
+* How does a Spreadsheet Work (Harry Percival)
+* Micro Python - my experiences running a successful Kickstarter campaign (Damien George)
+
+Things I Wish I'd Seen
+======================
+* Farewell and Welcome Home: Python in Two Genders (Naomi Ceder)
+* HTTP/2: Because The Web Was Too Easy (Cory Benfield)
+* Dockerize your Python App (James Pacileo)
+* The entire Education track
 
 Upcoming conferences
 ====================
