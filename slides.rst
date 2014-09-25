@@ -60,8 +60,8 @@ Development tools
 
 Cool libraries
 ==============
-* `Bottle` - ultra-simple web framework
-* `Pykka` - actors in Python
+* `Bottle`_ - ultra-simple web framework
+* `Pykka`_ - actors in Python
 * `requests-toolbelt`_
 * (`more`_-)
   `itertools`_
