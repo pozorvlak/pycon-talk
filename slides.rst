@@ -12,8 +12,8 @@ Major themes
 
 Scientific computing
 ====================
-* Ganga
-* http://plot.ly
+* `Ganga <https://ep2014.europython.eu/en/schedule/sessions/54/>`_
+* `Plotly <http://plot.ly>`_
 * Profiling
 * PyPy, Numba, Cython, Pythran, ShedSkin...
 
@@ -26,36 +26,57 @@ Education
 
 Debugging tools
 ===============
-* ispyd/pyrasite
-  - inject code into running process
-* mitmproxy
+* `ispyd`_/`pyrasite`_ - inject code into running process
+* `mitmproxy`_
+* `pathod/pathoc <http://pathod.net/docs/pathod>`_
+
+.. _ispyd: https://pypi.python.org/pypi/ispyd/0.0.0
+.. _pyrasite: https://github.com/lmacken/pyrasite
+.. _mitmproxy: http://mitmproxy.org/doc/mitmproxy.html
 
 Profiling tools
 ===============
-* cProfile + RunSnakeRun
-* line_profiler
-* memory_profiler
-* iotop
+* `cProfile`_ + `RunSnakeRun`_
+* `line_profiler`_
+* `memory_profiler`_
+* `iotop <http://guichaz.free.fr/iotop/>`_
+
+.. _cProfile: https://docs.python.org/2/library/profile.html
+.. _RunSnakeRun: http://www.vrplumber.com/programming/runsnakerun/
+.. _line_profiler: https://github.com/rkern/line_profiler
+.. _memory_profiler: https://pypi.python.org/pypi/memory_profiler
 
 Development tools
 =================
-* Rope/Traad - refactoring support
-* Ag - fast code searcher
-* direnv - load env on cd
-* weld - manage git vendor branches
-* pyfakefs - test file manipulation
+* `Rope`_/`Traad`_ - refactoring support
+* `Ag <https://github.com/ggreer/the_silver_searcher>`_ - fast code searcher
+* `direnv <https://github.com/zimbatm/direnv>`_ - load env on directory change
+* `weld <https://code.google.com/p/weld/>`_ - manage git vendor branches
+* `pyfakefs <http://code.google.com/p/pyfakefs/>`_ - test file manipulation
+* 2to3
+
+.. _Rope: http://rope.sourceforge.net/
+.. _Traad: https://github.com/abingham/traad
 
 Cool libraries
 ==============
-* Bottle - ultra-simple web framework
-* Pykka - actors in Python
-* requests-toolbelt
-* (more-)itertools
+* `Bottle` - ultra-simple web framework
+* `Pykka` - actors in Python
+* `requests-toolbelt`_
+* (`more`_-)
+  `itertools`_
+
+.. _Bottle: http://bottlepy.org/docs/dev/index.html
+.. _Pykka: https://github.com/jodal/pykka
+.. _requests-toolbelt: https://pypi.python.org/pypi/requests-toolbelt/0.3.0
+.. _more: https://github.com/erikrose/more-itertools
+.. _itertools: https://docs.python.org/2/library/itertools.html
 
 Last but not least
 ==================
-* rst2html5
-  Used to make these slides!
+* `rst2html5 <https://github.com/marianoguerra/rst2html5>`_
+* Used to make these slides!
+* Installation currently slightly fiddly
 
 Top 5 talks
 ===========
