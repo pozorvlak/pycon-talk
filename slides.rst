@@ -103,18 +103,25 @@ Last but not least
 Best Things I Saw
 =================
 * Lessons from Strangers (Rachel Sanders)
-* The Twelve-Factor App (Kristian Glass)
-* Miss Adventures in Raspberry Pi (Carrie Anne Philbin)
-* A Deep Dive into Requests (Cory Benfield)
+* `The Twelve-Factor App`_ (Kristian Glass)
+* `Miss Adventures in Raspberry Pi <misadventures>`_ (Carrie Anne Philbin)
+* `A Deep Dive into Requests`_ (Cory Benfield)
 * How does a Spreadsheet Work (Harry Percival)
 * Micro Python - my experiences running a successful Kickstarter campaign (Damien George)
 
+.. _The Twelve-Factor App: http://www.doismellburning.co.uk/talks/django12factor/
+.. _A Deep Dive into Requests: http://lanyrd.com/2014/pyconuk/sddzcr/
+.. _misadventures: http://pycon.dev1.autotrain.org/mod/autoview/view.php?id=47
+
 Things I Wish I'd Seen
 ======================
-* Farewell and Welcome Home: Python in Two Genders (Naomi Ceder)
-* HTTP/2: Because The Web Was Too Easy (Cory Benfield)
+* `Farewell and Welcome Home: Python in Two Genders <gender>`_ (Naomi Ceder)
+* `HTTP/2: Because The Web Was Too Easy <http2>`_ (Cory Benfield)
 * Dockerize your Python App (James Pacileo)
 * The entire Education track
+
+.. _gender: https://docs.google.com/presentation/d/1snSZgsAjaWrvlx7vI1-D31k398GT6CigAVHV77_66-s/pub?start=false&loop=false&delayms=3000#slide=id.p14
+.. _http2: http://lanyrd.com/2014/pyconuk/sddzcf/
 
 Things are going up online
 ==========================
