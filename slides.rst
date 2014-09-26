@@ -3,12 +3,16 @@ Cool stuff I saw at PyCon UK 2014
 * Miles Gould <miles.gould@hogarthww.com>
 * 26th September 2014
 
+.. image:: pictures/dawn_flight.jpg
+
 Major themes
 ============
 
 * Scientific computing
 * Education
 * Big picture
+
+.. image:: pictures/factory_gate.jpg
 
 Scientific computing
 ====================
@@ -17,12 +21,16 @@ Scientific computing
 * Profiling
 * PyPy, Numba, Cython, Pythran, ShedSkin...
 
+.. image:: pictures/pypy.jpg
+
 Education
 =========
 * Raspberry Pi
 * Minecraft
 * Robots!
 * Awesome keynote by Carrie-Ann Philbin
+
+.. image:: pictures/rpi_help.jpg
 
 Debugging tools
 ===============
@@ -33,6 +41,8 @@ Debugging tools
 .. _ispyd: https://pypi.python.org/pypi/ispyd/0.0.0
 .. _pyrasite: https://github.com/lmacken/pyrasite
 .. _mitmproxy: http://mitmproxy.org/doc/mitmproxy.html
+
+.. image:: pictures/quake.jpg
 
 Profiling tools
 ===============
@@ -46,6 +56,8 @@ Profiling tools
 .. _line_profiler: https://github.com/rkern/line_profiler
 .. _memory_profiler: https://pypi.python.org/pypi/memory_profiler
 
+.. image:: pictures/free_beer.jpg
+
 Development tools
 =================
 * `Rope`_/`Traad`_ - refactoring support
@@ -57,6 +69,8 @@ Development tools
 
 .. _Rope: http://rope.sourceforge.net/
 .. _Traad: https://github.com/abingham/traad
+
+.. image:: pictures/field_gun.jpg
 
 Cool libraries
 ==============
@@ -74,11 +88,15 @@ Cool libraries
 .. _more: https://github.com/erikrose/more-itertools
 .. _itertools: https://docs.python.org/2/library/itertools.html
 
+.. image:: pictures/tuba_time.jpg
+
 Last but not least
 ==================
 * `rst2html5 <https://github.com/marianoguerra/rst2html5>`_
 * Used to make these slides!
 * Installation currently slightly fiddly
+
+.. image:: pictures/bus_art.jpg
 
 Best Things I Saw
 =================
@@ -106,3 +124,10 @@ Upcoming conferences
   - http://python-namibia.org/
 - PyCon UK 2015
   - Same bat-week, same bat-place
+
+.. image:: pictures/tram.jpg
+
+Thanks for listening!
+=====================
+
+.. image:: pictures/bhi_home.jpg
