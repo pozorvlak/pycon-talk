@@ -76,17 +76,19 @@ Cool libraries
 ==============
 * `Bottle`_ - ultra-simple web framework
 * `Pykka`_ - actors in Python
-* `requests-toolbelt`_
+* `requests-toolbelt`_ - extra utilities built on requests
 * (`more`_-)
-  `itertools`_
-* PySerial
-* TastyPie
+  `itertools`_ - functional-style iterators
+* `pySerial`_ - serial port comms
+* `TastyPie`_ - easily RESTify Django apps
 
 .. _Bottle: http://bottlepy.org/docs/dev/index.html
 .. _Pykka: https://github.com/jodal/pykka
 .. _requests-toolbelt: https://pypi.python.org/pypi/requests-toolbelt/0.3.0
 .. _more: https://github.com/erikrose/more-itertools
 .. _itertools: https://docs.python.org/2/library/itertools.html
+.. _pySerial: http://pyserial.sourceforge.net/
+.. _TastyPie: https://django-tastypie.readthedocs.org/en/latest/
 
 .. image:: pictures/tuba_time.jpg
 
@@ -113,6 +115,12 @@ Things I Wish I'd Seen
 * HTTP/2: Because The Web Was Too Easy (Cory Benfield)
 * Dockerize your Python App (James Pacileo)
 * The entire Education track
+
+Things are going up online
+==========================
+* `Schedule <http://pyconuk.net/Schedule>`_
+* `Post-conference links <http://pyconuk.net/PostConf>`_
+* `Slides <http://lanyrd.com/2014/pyconuk/>`_
 
 Upcoming conferences
 ====================
