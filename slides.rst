@@ -121,6 +121,7 @@ Things are going up online
 * `Schedule <http://pyconuk.net/Schedule>`_
 * `Post-conference links <http://pyconuk.net/PostConf>`_
 * `Slides <http://lanyrd.com/2014/pyconuk/>`_
+* `Videos <http://pycon.dev1.autotrain.org/>`_
 
 Upcoming conferences
 ====================
